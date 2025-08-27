@@ -1,0 +1,5 @@
+{
+  "name": "Auto Assign PR to Author",
+  "description": "Automatically assign new PRs to the author of the PR unless another person was already assigned.",
+  "categories": ["Automation"]
+}
