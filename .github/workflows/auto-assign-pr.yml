@@ -1,3 +1,4 @@
+# https://github.com/toshimaru/auto-author-assign
 name: Auto Assign PR to Author
 
 on:
